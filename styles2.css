@@ -1,0 +1,98 @@
+* {
+    background-color: rgb(171, 204, 242);
+}
+
+h1 {
+    background-color: rgb(57, 57, 233);
+    color: white;
+    font-size: 2cm;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li {
+    font-weight: bold;
+    font-size: 30px;
+    color: blue;
+}
+
+.places {
+    border: 2px solid white;
+    max-width: 15cm;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    background-color: cornflowerblue;
+    position: relative;
+    top: 40px;
+}
+
+.places1 {
+    position: relative;
+    float: left;
+}
+
+.athens1 {
+    width: 400px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    position: relative;
+    top: -7cm;
+}
+
+.hotels {
+    border: 2px solid white;
+    max-width: 15cm;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    background-color: cornflowerblue;
+    position: relative;
+    top: 4cm;
+    left: 16cm;
+}
+
+.hotels1 {
+    position: relative;
+    float: right;
+    top: 3cm;
+    left: -3cm;
+}
+
+.athens2 {
+    width: 400px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    position: relative;
+    left: -10cm;
+    top: -3cm;
+}
+
+.restaurants {
+    border: 2px solid white;
+    max-width: 10cm;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    background-color: cornflowerblue;
+    position: relative;
+    top: 8cm;
+}
+
+.restaurants1 {
+    position: relative;
+    float: right;
+    top: 7cm;
+    left: -7cm;
+}
+
+.athens3 {
+    width: 400px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    position: relative;
+    left: 20cm;
+}
